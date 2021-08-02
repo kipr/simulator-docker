@@ -1,0 +1,12 @@
+[submodule "simulator"]
+	path = simulator
+	url = https://github.com/kipr/simulator.git
+[submodule "ivygate"]
+	path = ivygate
+	url = https://github.com/kipr/ivygate.git
+[submodule "emsdk"]
+	path = emsdk
+	url = https://github.com/emscripten-core/emsdk
+[submodule "libwallaby"]
+	path = libwallaby
+	url = https://github.com/kipr/libwallaby
