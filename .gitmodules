@@ -6,7 +6,7 @@
 	url = https://github.com/kipr/ivygate.git
 [submodule "emsdk"]
 	path = emsdk
-	url = https://github.com/emscripten-core/emsdk
+	url = https://github.com/emscripten-core/emsdk/tree/2e73421e60949e47cd48bbc57cdda7fb16627f8f
 [submodule "libwallaby"]
 	path = libwallaby
 	url = https://github.com/kipr/libwallaby
