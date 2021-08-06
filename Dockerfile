@@ -1,4 +1,4 @@
-FROM emscripten/emsdk
+FROM emscripten/emsdk:2.0.2
 
 RUN npm install -g yarn
 
