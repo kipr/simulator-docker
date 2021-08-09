@@ -1,4 +1,6 @@
-# simulator-docker
+# [ARCHIVED] simulator-docker
+
+> NOTE: This repository has been archived and is no longer in use. The files for building the simulator image have moved to [kipr/Simulator](https://github.com/kipr/Simulator).
 
 A meta-repository used for building a docker image of the simulator.
 
